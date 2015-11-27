@@ -1,0 +1,2 @@
+# copyutil
+Golang copyutil package 
